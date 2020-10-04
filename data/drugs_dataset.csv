@@ -1,0 +1,1001 @@
+drug_id,drug_code,drug_name,quantity,dose_per_unit
+1,43269-760,Citrus and Olive Antibacterial Foaming Hand Wash,10,1
+2,30142-130,pain relief,5,1
+3,63187-186,Amoxicillin,3,3
+4,63941-379,Childrens Night Time Cold and Cough,8,2
+5,55910-368,dg health all day pain relief,9,1
+6,63629-2873,BUDEPRION,5,1
+7,0591-3971,Glipizide and Metformin Hydrochloride,10,2
+8,53808-0609,Acyclovir,10,2
+9,49288-0480,Strawberry,4,3
+10,11822-0897,ibuprofen,3,1
+11,59762-1003,Sirolimus,6,1
+12,37808-198,Ibuprofen,9,3
+13,64117-986,Colds Earache,1,1
+14,64942-1186,Axe,4,1
+15,37808-469,rx act stomach relief,5,1
+16,35378-0004,Calm Remedy Water,5,1
+17,37205-034,Leader Arthritis Pain Reliever,1,1
+18,52389-621,Nauzene Homeopathic,5,3
+19,60429-091,Levetiracetam,4,3
+20,57664-228,METHYLPHENIDATE HYDROCHLORIDE,3,2
+21,46987-325,Kadian,6,1
+22,49035-112,Suphedrine,10,3
+23,55714-1104,Hangover Help,7,2
+24,54868-4786,Protonix,3,1
+25,53808-0936,verapamil hydrochloride,4,3
+26,61957-1090,CD Creme De Rose Plumping Lip Balm,10,3
+27,37000-708,DDF Benzoyl Peroxide,5,1
+28,61787-556,Zostrix High Potency Foot Pain Relief,5,1
+29,53499-5090,Arniflora,9,3
+30,50184-1010,clear days ahead,7,3
+31,36000-002,Fluconazole,7,3
+32,25021-825,Levofloxacin,9,2
+33,42254-164,Hydrocortisone,5,3
+34,42507-702,Cold and Flu,10,1
+35,60760-334,METRONIDAZOLE,7,1
+36,55045-1643,Promethazine Hydrochloride,9,1
+37,52125-434,Clindamycin Hydrochloride,10,3
+38,49349-346,Warfarin Sodium,9,1
+39,60681-1809,Pleo Muc,3,3
+40,37000-747,Old Spice Fresh Collection Denali,5,1
+41,33261-103,Tizanidine,1,3
+42,60429-122,Venlafaxine Hydrochloride,10,3
+43,55154-8266,Citalopram,8,1
+44,0456-0460,Armour Thyroid,5,1
+45,63304-779,Topiramate,5,3
+46,65862-247,Levetiracetam,7,1
+47,54162-107,Bacitracin Zinc,3,1
+48,54868-5621,PULMICORT RESPULES,6,1
+49,0093-9614,Silver Nitrate,1,3
+50,68788-9835,Simvastatin,1,2
+51,36987-1485,Green Pea,6,1
+52,49035-656,Equate Day time,8,1
+53,49726-002,Activive,1,1
+54,67659-081,Up and UP Sensitive Toothpaste Enamel Strengthening formula plus whitening,10,1
+55,68151-4471,Lescol,8,3
+56,60429-341,BETHANECHOL CHLORIDE,3,1
+57,54569-5353,Metformin Hydrochloride,4,2
+58,42043-250,Cefdinir,7,1
+59,0093-6301,Adapalene,2,3
+60,0268-1206,CORYLUS AMERICANA POLLEN,5,1
+61,0409-8183,Potassium Acetate,1,2
+62,61995-0204,Sunbrellas Kids Sunblock SPF 45,5,2
+63,55289-912,Hydroxyzine Hydrochloride,9,2
+64,0143-9722,Levofloxacin,5,3
+65,57501-953,Oil Free Acne Scrub,6,3
+66,36987-1894,Aspergillus terreus,1,3
+67,58414-8808,NeoStrata HQ Skin Lightening,1,1
+68,67684-5505,HEXABRIX,6,1
+69,53389-251,EROS SILICONE GLIDE AND CARE,10,2
+70,50242-072,Nutropin,10,2
+71,35356-988,Bumetanide,2,1
+72,49643-393,Standardized Kentucky Blue (June) Grass,8,1
+73,0597-0186,DulcoGas,3,1
+74,64764-253,OSENI,7,2
+75,58194-018,Vanilla,7,2
+76,33332-014,AFLURIA,4,3
+77,50332-0201,Eye Clean,7,2
+78,66184-438,ck one 3-in-1 face makeup,1,2
+79,49527-017,REPAIRWEAR,8,2
+80,60432-038,Generlac,1,1
+81,55648-739,Amiodarone Hydrochloride,3,1
+82,54868-3632,LITHIUM CARBONATE,6,2
+83,65662-403,Alka-Seltzer XTRA STRENGTH,4,2
+84,13733-020,MISSHA ALL AROUND SAFE BLOCK ESSENCE SUN,10,2
+85,50845-0017,Vaginitis,1,2
+86,42507-013,allergy and congestion relief,4,3
+87,59746-242,Alendronate Sodium,4,1
+88,10812-300,Neutrogena Oil Free Acne Wash,9,2
+89,57520-0758,Weed Grass Antigens,7,1
+90,24909-127,Terrasil Wart Removal,7,2
+91,35356-175,CHANTIX,6,2
+92,65517-0015,Alcohol Prep Pad,2,2
+93,0682-3001,BACMIN,5,3
+94,51824-018,Ibuprofen,6,2
+95,54868-0735,Chlorzoxazone,5,2
+96,49825-132,Ray Defense Borad Spectrum SPF 30 sunscreen,8,2
+97,44087-8090,Serophene,9,1
+98,50563-132,RUE21 Doughnut Sprinkles Antibacterial Hand Sanitizer,2,1
+99,63354-615,HAWAIIAN TROPIC,5,3
+100,0527-1301,Primidone,7,3
+101,53489-678,Fenofibric Acid,6,1
+102,54575-109,CULTIVATED WHEAT POLLEN,10,3
+103,37000-096,Head and Shoulders,2,3
+104,49349-019,Etodolac,8,2
+105,24385-554,good neighbor pharmacy anti diarrheal,1,1
+106,0781-5312,Risperidone,4,1
+107,49781-041,Leader Original Nasal,8,3
+108,55315-558,Non-Drowsy Sinus Congestion and Pain,3,1
+109,59667-0014,Infected Cuts and Punctures,5,3
+110,68258-3051,azithromycin,8,3
+111,10424-164,SyGest Complex,1,2
+112,61715-093,Preferred Plus Hemorrhoidal,7,1
+113,54575-154,RUSSIAN THISTLE POLLEN,2,3
+114,59535-0301,COLLAGEN RESURGENCE STEMCELL BB,6,3
+115,0264-3112,Cefuroxime and Dextrose,8,2
+116,29336-610,Aldara,3,1
+117,0603-1684,Sulfamethoxazole and Trimethoprim,4,3
+118,68788-0179,FERROUS SULFATE,7,2
+119,55741-304,Myoflex,1,1
+120,40057-2001,Charm-Tex,3,2
+121,0615-7549,Desmopressin Acetate,9,2
+122,53389-113,EROS TOYGLIDE,3,3
+123,49967-659,LOreal Paris true match super blendable compact makeup Broad Spectrum SPF 17,5,2
+124,64117-301,NHS HEADACHE,5,2
+125,10096-0071,Skin So Soft Bug Guard Plus IR3535,4,1
+126,54859-120,Dermagesic,8,1
+127,0591-3204,Podofilox,5,2
+128,68391-974,berkley and jensen childrens cetirizine hydrochloride,6,2
+129,59091-1001,Red Cleo,3,3
+130,0168-0041,Betamethasone Valerate,10,2
+131,0268-6764,ARTEMISIA ANNUA POLLEN,2,3
+132,43742-0196,HGH Vitality,3,3
+133,55154-5456,Chlorpheniramine Maleate,7,2
+134,10742-8417,Phisoderm Anti-Blemish Gel Cleanser,8,1
+135,50308-001,Oxygen,7,1
+136,16729-023,Bicalutamide,9,1
+137,63739-802,Lorazepam,4,2
+138,55154-0219,Premarin,8,2
+139,58517-100,Citalopram,2,1
+140,65954-036,COLGATE KIDS WATERMELON FLAVOR,1,1
+141,63287-419,Releev Cold Sore Treatment,5,1
+142,46122-140,Loratadine,10,2
+143,30142-154,Flu Relief Therapy Night Time,2,1
+144,0338-0179,Plasma-Lyte 148,4,2
+145,54868-1192,Neomycin and Polymyxin B Sulfates and Dexamethasone,10,1
+146,63868-612,Sleep aid,5,3
+147,49348-306,Sunmark Naproxen Sodium,10,3
+148,0068-0021,Norpramin,2,1
+149,42192-133,Sodium Sulfacetamide and Sulfur,4,1
+150,62756-827,DOXOrubicin Hydrochloride,10,1
+151,42311-003,Antibacterial Roll Towels,10,1
+152,59898-120,R2,8,2
+153,59078-022,Timeless EGF Power,9,1
+154,55316-678,Healthy accents hemorrhoidal,3,1
+155,0093-4137,Cefdinir,8,3
+156,43063-095,Hydroxyzine Hydrochloride,10,1
+157,61601-1112,Eve Lom Radiance Perfected Tinted Moisturiser Broad Spectrum SPF 15 Sunscreen,6,3
+158,0268-1423,AMBROSIA ACANTHICARPA POLLEN,6,2
+159,57955-0101,Acute Viro Reliever,6,1
+160,35356-043,Zonalon,8,2
+161,57520-0022,Allerpoll,10,2
+162,76237-247,Sucralfate,1,1
+163,21695-145,Cymbalta,8,3
+164,36987-1513,Spinach,10,3
+165,47335-150,carboplatin,9,3
+166,55154-5650,Diphenoxylate Hydrochloride and Atropine Sulfate,7,2
+167,50484-315,Secura Protective,3,1
+168,65862-551,Valsartan and Hydrochlorothiazide,8,3
+169,66215-401,Veletri,10,3
+170,13913-009,Lazanda,6,2
+171,55312-306,Laxative,2,2
+172,46122-029,good neighbor pharmacy omeprazole,5,2
+173,0409-0801,Nipent,3,2
+174,60681-9012,Pleo Stroph,9,3
+175,60681-1905,Pleo Muc Ex,2,1
+176,64942-1123,Dove Men plus Care,10,2
+177,65954-014,Colgate,9,3
+178,57915-004,germstar Original unscented,5,1
+179,54296-1001,JEUNCELL a drug for atopic dermatitis,4,3
+180,36987-2405,Velvet Grass,10,2
+181,30142-455,childrens pain and fever,2,3
+182,60681-1404,Pleo Lat,6,3
+183,20482-002,SUBSYS,3,2
+184,48951-1164,Arsenicum Cerebrum,10,1
+185,22912-002,fluorodine ULTRA active Fluoride Anticavity,7,3
+186,41250-173,ANTIBACTERIAL FOAMING,6,3
+187,0378-0334,Haloperidol,4,2
+188,49738-100,IMAGE ESSENTIALS,3,1
+189,66116-413,Sumatriptan Succinate,8,3
+190,55289-559,ONDANSETRON,5,1
+191,42806-503,Ursodiol,2,2
+192,50636-003,antiperspirant deodorant,5,1
+193,42858-901,Tramadol Hydrochloride,1,2
+194,66382-515,Vichy Laboratoires Aqualia Antiox,1,2
+195,43455-0001,LBEL DEFENSE 365 Daily Protective Facial SPF 50,5,1
+196,63629-1671,Ranitidine,6,1
+197,65044-0851,"Standardized Grass Pollen, Grass Mix 7",1,1
+198,63629-1309,Doxazosin,7,2
+199,48951-8038,Plantain Beeswax Cough Relief,6,1
+200,0310-0705,CASODEX,2,2
+201,0053-7596,Vivaglobin,10,3
+202,53499-5553,SambiFlu,8,2
+203,0378-0222,Chlorthalidone,5,3
+204,42507-050,ibuprofen pm,2,2
+205,63565-0001,Oxygen,7,1
+206,51389-203,LAURA GELLER BEAUTY TUSCAN SUN SPACKLE SPF 30 PROTECTIVE UNDER MAKE-UP PRIMER TAN,9,1
+207,0310-0951,ZOLADEX,4,2
+208,36987-1957,Curvularia inequalis,7,1
+209,51808-208,Sestamibi,9,1
+210,21749-992,PURELL Waterless Surgical Scrub,10,2
+211,65044-2413,"Pollens - Weeds and Garden Plants, Sagebrush, Mugwort Artemisia vulgaris",10,1
+212,50804-804,Isopropyl Alcohol,8,1
+213,43742-0361,Bio Glyoxal,2,1
+214,51079-513,Pioglitazone,7,2
+215,0603-4998,Oxycodone and Acetaminophen,9,3
+216,59726-670,Nasal Decongestant,7,1
+217,36987-2479,Arizona Ash,5,1
+218,63824-176,Delsym,1,1
+219,54569-3146,Cheratussin AC,6,2
+220,58552-317,GILTUSS TOTAL RELEASE,8,1
+221,37808-479,Antihistamine Allergy,5,3
+222,42291-306,Glipizide and Metformin Hydrochloride,7,2
+223,52125-391,Dicyclomine Hydrochloride,4,1
+224,43063-457,Levofloxacin,3,3
+225,0078-0569,EXTAVIA,3,3
+226,0113-0872,Good Sense Night Time Cold and Flu,1,3
+227,67544-253,Amitriptyline Hydrochloride,3,2
+228,42507-271,Acid Reducer,2,1
+229,68220-022,sF Rowasa,6,1
+230,43689-0010,Migraine Relief,2,1
+231,47781-136,Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution,4,3
+232,37205-605,Leader ibuprofen,6,3
+233,43063-190,Clonidine Hydrochloride,10,1
+234,36800-419,Topcare Mucus Relief,1,3
+235,0378-0973,Clozapine,6,1
+236,0093-7367,Losartan Potassium and Hydrochlorothiazide,8,3
+237,55150-155,Acyclovir Sodium,10,2
+238,50795-4001,U-max Beauty,2,2
+239,42411-010,Oxygen,2,1
+240,0143-9986,CEFACLOR,8,3
+241,63323-010,Gentamicin,2,2
+242,68180-123,cephalexin,5,2
+243,36987-1890,Aspergillus niger,10,1
+244,36987-3049,East Sycamore,2,3
+245,52685-343,CLE DE PEAU BEAUTE FOUNDATION I,8,1
+246,52125-058,Dicyclomine Hydrochloride,4,2
+247,0363-0307,Lubricant Eye,4,2
+248,49349-177,Ibuprofen,8,2
+249,48951-9013,Thyreoidea Ferrum,5,2
+250,42783-111,Zithranol,6,3
+251,36987-1974,Fusarium compactum,10,1
+252,0179-1984,Lisinopril,1,3
+253,33342-035,Pramipexole dihydrochloride,5,2
+254,54575-389,EGG WHITE,8,2
+255,43269-864,Sweet Fig Antibacterial Foaming Hand Wash,9,3
+256,50458-094,DURAGESIC,4,3
+257,59623-004,Breathe Easier Formula,3,1
+258,43857-0093,Dentaforce,8,1
+259,57520-0517,Bio Holly,2,3
+260,52685-329,SHISEIDO SHEER MATIFYING COMPACT (REFILL),3,1
+261,62756-299,PHENYTOIN SODIUM,2,2
+262,0093-2238,Cephalexin,4,3
+263,61957-1053,Rouge Dior 860 Violet Serum,4,1
+264,48878-4031,OMNI,7,3
+265,55150-127,Oxacillin,1,2
+266,41167-0014,Unisom SleepMelts,1,1
+267,0904-3016,Neocidin,4,2
+268,67046-665,SERTRALINE HYDROCHLORIDE,4,2
+269,50436-7392,Tobramycin,8,3
+270,51206-205,Ultracare Anesthetic,3,3
+271,0037-0110,Butisol Sodium,5,2
+272,54868-5916,Vyvanse,5,3
+273,49035-551,Body,4,3
+274,0113-0425,Good Sense Aller Ease,1,2
+275,0067-6239,LAMISIL AT,9,2
+276,53645-1050,Cuprum Metallicum,8,2
+277,76245-220,True Natural broad spectrum spf 50,1,3
+278,36987-1646,Tragacanth Gum,9,1
+279,53329-058,Medline ReadyBath Select,8,2
+280,50114-4041,Discus Compositum Rx,10,3
+281,58668-2791,CLARINS Ever Matte SPF 15 - 105 Nude,5,3
+282,41163-242,Gas Relief,7,3
+283,58194-016,Sweet Pea,4,2
+284,59623-010,Seasonal Allergy Pet Formula,8,2
+285,55910-247,Headache Relief,3,2
+286,11822-0350,Foot Care Clotrimazole,3,1
+287,54973-1068,Bioplasma,2,1
+288,36987-2551,White Birch,5,1
+289,16252-509,Simvastatin,10,3
+290,63187-003,Levofloxacin,10,3
+291,49349-238,Divalproex Sodium,3,2
+292,33261-905,Cefdinir,6,1
+293,64455-993,ZOVIRAX,3,2
+294,0093-0755,Diflunisal,4,3
+295,16714-587,Pramipexole Dihydrochloride,1,2
+296,0179-0152,Lamivudine,4,1
+297,47242-0001,Allergy RELIEF,10,3
+298,35356-723,CLONIDINE HYDROCHLORIDE,1,1
+299,0409-5084,TAZICEF,5,2
+300,50066-070,Lagicam,4,1
+301,63304-403,Fosinopril Sodium and Hydrochlorothiazide,2,1
+302,0517-1130,Epinephrine,2,1
+303,62309-779,Solves - aspirin,10,2
+304,63323-261,Progesterone,5,2
+305,68788-9738,Carvedilol,7,3
+306,67046-116,Citalopram Hydrobromide,4,2
+307,0054-0542,Telmisartan,3,2
+308,35356-048,KADIAN,3,3
+309,55154-3188,Calcium Chloride,3,3
+310,49349-300,Naproxen Sodium,2,2
+311,50114-6186,Aesculus-Heel,4,3
+312,54416-006,Nitrous Oxide,10,2
+313,63187-003,Levofloxacin,9,2
+314,21695-246,Allopurinol,9,1
+315,50458-588,CONCERTA,2,2
+316,23155-186,Zoledronic acid,10,3
+317,57664-263,CETIRIZINE HYDROLORIDE Allergy,2,3
+318,49288-0411,Eastern White Pine,7,2
+319,55111-168,Olanzapine,8,1
+320,10096-0199,Clearskin,4,1
+321,59824-0008,PainMed,4,1
+322,43406-0030,MENOPAUSE HP,7,3
+323,37000-816,Metamucil,10,2
+324,47593-315,Sanigizer Plus,8,3
+325,36987-2437,Smooth Brome,3,3
+326,52125-282,Lithium Carbonate,4,2
+327,49035-123,Clotrimazole,3,1
+328,63354-900,BANANA BOAT,10,1
+329,17478-207,Ketorolac Tromethamine,5,3
+330,54868-5965,Voltaren,1,3
+331,0268-6304,COTTON SEED,8,2
+332,0409-7333,Ceftriaxone Sodium,3,1
+333,50268-699,risperidone,9,3
+334,0185-4057,Phendimetrazine Tartrate,7,2
+335,13537-140,ESIKA,4,1
+336,63323-187,Sodium Chloride,8,3
+337,63874-834,Hydrocodone Bitartrate And Acetaminophen,7,1
+338,43419-362,IOPE SS,1,1
+339,68151-3646,OXYBUTYNIN CHLORIDE,3,3
+340,68828-090,Soft Beige,9,2
+341,68047-157,ExeFen IR,3,2
+342,49351-700,Tork Advanced Antimicrobial,1,2
+343,41520-117,CareOne Lansoprazole,3,2
+344,36987-3393,Tall Ragweed,2,3
+345,68788-8033,Tretinoin,6,2
+346,43063-482,LISINOPRIL AND HYDROCHLOROTHIAZIDE,10,3
+347,41520-074,care one ibuprofen ib,2,3
+348,50181-0020,3 Heart,2,2
+349,29500-0881,Personal Care Antibacterial Foaming Hand Wash,9,3
+350,51346-145,SNAYTOX WRINKLE FILLER SPECIAL SET,3,2
+351,43063-307,Cefuroxime Axetil,7,1
+352,59262-355,Computer Eye Relief,1,3
+353,54868-4805,CLINDAMYCIN PHOSPHATE,1,2
+354,43857-0122,Osteoforce,6,1
+355,64380-715,Meloxicam,7,2
+356,49825-111,Bioelements,3,1
+357,0536-1008,Rugby Aspirin,5,2
+358,51079-323,Anastrozole,4,3
+359,57520-0596,Lymphdrainex,9,1
+360,62046-001,Oxygen,7,3
+361,55289-856,Chloroquine,3,2
+362,68180-198,Telmisartan and Amlodipine,8,2
+363,55154-0832,"Butalbital, Acetaminophen and Caffeine",3,3
+364,51523-007,FLEBEAUTE COLLAGENIC SKIN COVER,2,3
+365,43269-657,Sun Blossom Antibacterial Foaming Hand Wash,7,2
+366,0409-9157,Vitamin K1,6,2
+367,10812-227,Neutrogena Healthy Skin 3 in 1 Concealer for Eyes,10,3
+368,36987-1297,Banana,3,2
+369,43479-203,DAILY DEFLECTOR MOISTURIZER,10,1
+370,51862-153,Multi-Vitamin With Fluoride,6,1
+371,37808-884,CHILDRENS ALLERGY,8,1
+372,21130-238,Stool Softener,1,2
+373,50111-469,Propranolol Hydrochloride,2,3
+374,55777-0100,Burn Out SPF-30 Sunscreen,3,2
+375,13734-141,NARS ALL DAY LUMINOUS FOUNDATION,2,3
+376,79596-096,Too Faced BB Creme Complete Coverage Make-Up,6,2
+377,27854-103,Flanax Pain Reliever,8,1
+378,0409-7101,Sodium Chloride,3,2
+379,63347-301,EuCutaSol,1,3
+380,60505-3145,Cevimeline Hydrochloride,9,3
+381,57237-105,Doxycycline Hyclate,4,3
+382,0121-0809,Guaifenesin DM,7,2
+383,43596-0002,LBEL HYDRA CALME SPF 15 Intensive Moisturizing Facial,10,1
+384,65841-803,acyclovir,5,3
+385,68084-276,Methimazole,8,3
+386,24477-517,Cardene,10,3
+387,49999-016,Amoxicillin,9,2
+388,59676-562,PREZISTA,1,2
+389,41520-081,Milk of Magnesia Mint,6,1
+390,0603-4383,Multi Vitamin with Fluoride,5,3
+391,53329-207,Epi-Clenz Instant Hand Antiseptic,3,2
+392,54859-602,Tusnel Pediatric,7,3
+393,0781-5937,Candesartan cilexetil,6,1
+394,10586-9104,Instant Hand Sanitizer - Vanilla Scented,2,2
+395,63739-674,Alprazolam,1,3
+396,66758-160,KLOR-CON,2,2
+397,50309-777,Pain Relieving Patch,6,3
+398,63347-800,Vite20,1,1
+399,76237-137,Citalopram,2,1
+400,59886-413,Olivene,7,2
+401,60505-0688,Piperacillin and Tazobactam,8,1
+402,17452-380,MDSolarSciences SPF50 Plus Ultra Mineral Screen,8,2
+403,54868-5013,Bisoprolol Fumarate,7,3
+404,63323-424,Flumazenil,8,1
+405,61369-101,KLENSKIN SHOWERON SUNSCREEN,5,1
+406,55758-005,Low Dose Aspirin,1,2
+407,46414-2040,Medicaine Sting and Bite,2,2
+408,0603-4467,Metformin Hydrochloride,7,3
+409,60232-2587,Elta MD UV Aero,1,2
+410,54057-682,Hand Sanitizer Wipes with Aloe,3,2
+411,36987-2872,California Valley White Oak,1,1
+412,55910-294,DG BODY,8,3
+413,65342-1011,laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen ALMOND,10,1
+414,67046-665,SERTRALINE HYDROCHLORIDE,1,2
+415,43063-427,CIPROFLOXACIN,9,1
+416,0023-9163,RESTASIS,1,1
+417,0006-0717,HYZAAR,4,3
+418,36987-2914,Orange Pollen,1,2
+419,16252-542,Trandolapril,10,1
+420,52125-957,Prednisone,10,3
+421,37000-378,Old Spice,1,3
+422,0052-0273,NuvaRing,3,1
+423,57627-123,Bare Perfecting Makeup,3,3
+424,0186-1088,TOPROL,5,2
+425,63629-4974,FENTANYL,7,2
+426,50844-438,Ibuprofen,8,1
+427,76439-125,glimepiride,8,3
+428,63868-807,Night Time Cough Cherry,9,1
+429,10210-0011,CARMEX original lip balm EXTERNAL ANALGESIC,6,1
+430,68428-016,Skin Irritation,6,1
+431,51346-197,ADVANCED CELL BOOSTING EX WATERY,10,3
+432,0069-3859,Gemcitabine Hydrochloride,8,3
+433,62191-010,OI LIN DEEP MOISTURE SUNSCREEN SPF 25,6,1
+434,54868-1518,Propranolol Hydrochloride,7,2
+435,65841-782,buspirone hydrochloride,2,2
+436,57237-027,Fosinopril Sodium and Hydrochlorothiazide,8,3
+437,16590-469,MELOXICAM,1,3
+438,49999-381,Bupropion Hydrochloride,3,2
+439,68084-642,voriconazole,1,1
+440,0067-8118,Triaminic,7,3
+441,62856-500,Fragmin,7,2
+442,50436-3779,Venlafaxine Hydrochloride,1,1
+443,0904-5784,Fluoxetine,5,2
+444,35356-651,Nortriptyline Hydrochloride,7,2
+445,65649-552,Relistor,9,3
+446,12634-980,MISOPROSTOL,10,3
+447,51531-5395,Mary Kay Tinted Lip Balm Sunscreen SPF 15 Apricot,6,3
+448,49643-345,Salt Grass Pollen,5,1
+449,0071-2012,Neurontin,8,2
+450,54868-5992,Terbinafine Hydrochloride,1,2
+451,62839-1083,Epoch,10,1
+452,68196-344,simply right nicotine,2,3
+453,0228-3083,Alprazolam,1,2
+454,55111-231,Pravastatin sodium,6,1
+455,67345-0004,Purminerals 4-in-1 Mineral Tinted Moisturizer Broad Spectrum SPF 20 (DARK),9,3
+456,68387-236,Norco,8,2
+457,41163-799,Equaline tussin cough and chest congestion,6,2
+458,49999-090,Promethazine Hydrochloride,7,2
+459,68084-371,AMIODARONE HYDROCHLORIDE,4,3
+460,37808-480,Night Time Liquid Caps,4,2
+461,67544-879,Lorazepam,4,1
+462,52125-680,Ceftriaxone Sodium,7,2
+463,66184-530,ck one all day perfection face makeup,3,1
+464,54458-957,Benazepril Hydrochloride,1,3
+465,61442-117,Glimepiride,4,3
+466,41250-291,anti nausea,3,2
+467,57520-0659,Bio Cherry Plum,8,3
+468,51346-239,HAND AND NATURE SANITIZER,8,2
+469,36987-2742,Mango Blossom,9,2
+470,53125-773,Sani Mousse,9,3
+471,52244-404,SEMPREX,3,2
+472,59779-700,anti diarrheal,6,2
+473,62168-0805,Icy Hot,9,3
+474,13925-169,Multi Vitamin Drops with Fluoride and Iron,2,2
+475,54575-339,BANANA,2,1
+476,0904-7955,Stay Awake,1,1
+477,36987-3378,Greasewood,6,1
+478,53808-0755,Allopurinol,10,2
+479,76237-297,Simvastatin,3,2
+480,61919-434,MELOXICAM,4,2
+481,58411-160,CLE DE PEAU BEAUTE SILKY FOUNDATION I,7,2
+482,0093-9175,Quinidine Sulfate,7,1
+483,17630-2007,Banana Boat UltraMist Kids Tear Free Lotion SPF 50,2,1
+484,55154-4953,Azathioprine,1,2
+485,0185-0401,"Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate",9,1
+486,0338-0104,Ringers,2,1
+487,63776-165,Foods,3,1
+488,63323-542,Heparin Sodium,2,2
+489,0904-5609,ENALAPRIL MALEATE,6,1
+490,0013-2658,GENOTROPIN,3,1
+491,13811-664,Duloxetine,7,1
+492,49288-0653,Prairie Sage,9,3
+493,0363-1007,Isopropyl Alcohol,5,3
+494,68387-230,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,5,3
+495,58232-0424,Neosporin Original,10,3
+496,35356-503,Alprazolam,2,3
+497,35000-853,Softsoap Aquatic Splash,2,2
+498,52125-327,Levothyroxine Sodium,5,1
+499,68428-094,Cocculus Indicus Kit Refill,9,2
+500,37000-205,Old Spice Red Zone Collection,7,2
+501,36987-3398,Russian Thistle,4,3
+502,67544-289,Clonazepam,10,2
+503,55289-961,SINGULAIR,9,3
+504,0245-0169,Clenia,2,2
+505,0135-0150,PANADOL,9,1
+506,50436-9996,New Terocin,4,1
+507,54868-3049,Diflunisal,2,3
+508,0832-0611,Carbamazepine,6,1
+509,53807-137,RIGINIC ANTACID LIQUID,3,3
+510,49527-013,EVEN BETTER DARK SPOT CORRECTING BROAD SPECTRUM,10,3
+511,63304-588,amlodipine besylate and atorvastatin calcium,10,2
+512,52544-957,Fioricet,10,1
+513,49817-1991,Fresh Umbrian Clay Freshface Foundation SPF 20 Sun Empress,1,3
+514,11410-410,Jane Seymour Natural Advantage,8,1
+515,52125-818,Duloxetine,5,2
+516,33261-820,Alendronate Sodium,1,1
+517,55154-9367,Hydralazine Hydrochloride,2,3
+518,68400-109,Gelato APF,8,3
+519,0641-6061,Midazolam,6,3
+520,37205-706,leader antacid,7,3
+521,65044-1342,"Pollens - Trees, Cedar, Red Juniperus virginiana",3,3
+522,51143-962,Foaming Hand Wash,1,1
+523,55319-329,Allergy Relief,1,3
+524,16714-402,Cefpodoxime Proxetil,2,2
+525,55154-1578,Nystatin,9,2
+526,62011-0224,Stool Softener,1,1
+527,59702-150,Zonatuss,9,1
+528,0069-3342,Ciprofloxacin,4,1
+529,53208-429,OHUI Wrinkle Science wrinkle repair eye,8,3
+530,0268-6513,BOTRYTIS CINEREA,6,3
+531,63824-008,Mucinex,7,1
+532,0904-5572,MAJOR ULTRA STRENGTH GAS RELIEF,9,2
+533,65862-074,Citalopram Hydrobromide,10,3
+534,0548-3304,Calcium Chloride,5,2
+535,43406-0052,VIRAL HP,4,2
+536,58238-226,DELTUSS DP Nasal Decongestant Antihistamine CHERRY Flavor,5,3
+537,0052-0301,Ganirelix Acetate,3,2
+538,66472-037,benefit BIG EASY BROAD SPECTRUM SPF 35 SUNSCREEN multi-balancing complexion perfector - 03 LIGHTMEDIUM,5,3
+539,0904-0357,Hydroxyzine,5,2
+540,43857-0015,Drainage,4,2
+541,50114-1072,Neuralgo-Rheum,1,2
+542,37205-824,Pain Relieving,4,3
+543,51079-854,Galantamine,5,1
+544,37000-054,Head and Shoulders Conditioner,6,1
+545,12213-593,Nitrous Oxide,10,3
+546,68421-8300,Itch Relief,5,1
+547,21695-195,Buspirone Hydrochloride,4,2
+548,49781-109,LEADER ISOPROPYL Alcohol Wipes,6,3
+549,43857-0031,Hypopituitaryplex,4,1
+550,0536-1875,Reguloid,10,2
+551,50580-778,Zyrtec,5,2
+552,57955-4022,HeartburnCare,1,2
+553,61314-447,Metipranolol,4,1
+554,75887-002,Lip Balm,9,1
+555,53185-003,Clear Choice Ibuprofen,5,3
+556,46123-042,Carbon Dioxide,8,2
+557,36987-1963,Curvularia inequalis,10,1
+558,55050-0016,NITROGEN,1,1
+559,51655-320,Prednisone,2,1
+560,63304-580,Metoprolol Tartrate,2,3
+561,10742-8308,Oxy Maximum Action Advanced Face Wash,9,1
+562,59779-085,POVIDONE IODINE,7,3
+563,54868-6165,ENJUVIA,10,3
+564,25010-816,Timolol Maleate,7,1
+565,68180-429,bimatoprost,1,3
+566,47593-501,Ecolab,1,3
+567,67544-322,Fosinopril Sodium,7,2
+568,49873-020,Dorama-Neo,8,1
+569,11673-230,NICOTINE POLACRILEX,10,1
+570,67544-061,Synthroid,9,1
+571,41520-125,CAREONE,8,2
+572,0641-0477,Phenobarbital Sodium,10,1
+573,0363-0958,Cough DM,7,3
+574,52125-898,Venlafaxine Hydrochloride,9,1
+575,52584-489,Xylocaine,3,1
+576,46122-232,Good Neighbor Pharmacy Severe Day Time,4,2
+577,58980-820,Castellani Paint,9,2
+578,54838-144,Childrens Silapap,10,3
+579,0168-0015,hydrocortisone,3,1
+580,68703-005,Skin Dr,7,1
+581,21695-811,Benadryl,4,3
+582,43479-204,ILLUMIKATE CC CREAM,5,2
+583,35356-752,Alprazolam,7,3
+584,49738-499,Smart Sense Pump Mist,7,3
+585,59779-716,CVS Medicated Chest Rub,2,3
+586,42291-709,Ropinirole Hydrochloride,10,2
+587,52959-117,Sulfacetamide Sodium,5,3
+588,68682-520,Griseofulvin,8,3
+589,52685-314,ADVANCED HYDRO-LIQUID COMPACT (REFILL),1,1
+590,13537-199,ESIKA NATURAL CARE CONCHA DE NACAR AND ROSA MOSQUETA facial FPS 15,8,2
+591,0409-4921,Epinephrine,9,1
+592,54575-212,NIGROSPORA SPHAERICA,2,2
+593,0641-6068,Morphine Sulfate,9,2
+594,11523-7309,Coppertone Sport,9,3
+595,54575-105,SUDAN GRASS POLLEN,9,3
+596,63629-4338,diltiazem hydrochloride,7,1
+597,65954-041,COLGATE,4,2
+598,63739-283,Diltiazem Hydrochloride,4,2
+599,15478-005,shing-Releev,7,2
+600,43337-9329,Stomachin Antacid,1,2
+601,59726-025,Gas Relief,1,2
+602,0206-2100,Zosyn,4,2
+603,58118-0038,AZITHROMYCIN,4,3
+604,75866-001,"Antibacterial Hand Cleanser, Non-Alcohol",8,2
+605,24488-011,Roccos Old School,4,2
+606,45802-057,Ibuprofen,10,1
+607,50224-002,REFISSA,3,2
+608,61919-535,VENLAFAXINE,8,3
+609,75849-200,Valtrum US Aerobic Sport IMMEDIATE ACTION,8,1
+610,0115-0522,Fenofibrate,4,1
+611,63777-255,Childrens Ibuprofen,10,2
+612,64679-907,RANITIDINE,1,1
+613,0591-2474,Tetracycline Hydrochloride,6,3
+614,68647-103,iBaba,5,3
+615,63629-1564,Orphenadrine Citrate,4,1
+616,41520-214,care one miconazole 7,9,2
+617,37808-192,HEB,6,1
+618,76454-100,NATURES GUM BALM,4,2
+619,55111-172,Finasteride,6,2
+620,64536-4350,Soft Care Neutra Germ Antibacterial,4,2
+621,49035-458,equate allergy relief,4,3
+622,0904-5788,Natural Fiber Therapy Natural Laxative,1,2
+623,49520-502,CALM IT DOWN KIT,9,2
+624,30142-604,ibuprofen,3,3
+625,69246-001,Antiseptic Hand Cleansing Gel,2,2
+626,0121-0654,Fluphenazine Hydrochloride,10,3
+627,0185-0146,Nabumetone,2,2
+628,49738-558,SMART SENSE,9,3
+629,55154-6033,risperidone,6,3
+630,55312-117,lansoprazole,4,1
+631,54305-108,NATURAL HONEY HERB COUGH SUPPRESSANT THROAT DROPS,9,1
+632,55154-0536,donepezil hydrochloride,7,3
+633,51367-008,Pi Yen Chin,6,3
+634,48878-4021,OMNI,9,2
+635,55714-2295,Leg Cramps - Swelling,2,3
+636,55714-4484,Candidiasis Yeast,4,3
+637,10671-013,OXYGEN,1,1
+638,36800-232,TOPCARE,3,3
+639,53187-480,Nighttime Cold Flu Relief,9,1
+640,51386-702,napoleon PERDIS ADVANCED MINERAL MAKEUP BROAD SPECTRUM SPF 15 Look 2,6,3
+641,55714-4405,Insomnia,7,2
+642,59535-1091,Ultra Nutrition Day,7,1
+643,57664-540,Cetirizine Hydrochloride,8,2
+644,36987-2365,Cultivated Rye,2,3
+645,0440-1796,Metronidazole,9,1
+646,52125-507,Levothyroxine sodium,1,1
+647,49035-302,equate stomach relief,8,2
+648,33261-021,Chlorzoxazone,8,2
+649,37012-059,Shopko Hydrocortisone,10,2
+650,36987-1221,Halibut,9,2
+651,58411-170,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),10,3
+652,49288-0078,Red (River) Birch,1,2
+653,36987-1170,Veal,1,1
+654,0904-7727,ACID GONE ANTACID,7,1
+655,21695-203,TobraDex,7,2
+656,35356-216,Benicar,10,2
+657,43857-0173,TREE ANTIGEN,2,3
+658,65517-1016,DawnMist Hypoallergenic 100 Percent Pure Petroleum,7,2
+659,50242-137,ACTEMRA,9,1
+660,65862-443,Childrens Cetirizine Hydrochloride Hives Relief,7,1
+661,49349-945,Metaxalone,8,3
+662,25237-0517,Dual Senses Scalp Regulation AntiDandruff Shampoo,10,1
+663,49643-124,"Smut, Wheat",5,2
+664,0378-3075,Clomipramine Hydrochloride,7,1
+665,0268-6730,PROSOPIS JULIFLORA POLLEN,4,2
+666,49999-118,ULTRACET,10,3
+667,0517-0132,Calcitriol,9,3
+668,61589-6006,No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory,8,1
+669,41250-477,Naproxen Sodium,1,2
+670,44738-6001,Ginsamin Beauty,1,3
+671,62756-349,Octreotide Acetate,2,1
+672,0093-4085,Tobramycin,6,2
+673,0065-0656,Ciloxan,1,1
+674,51079-873,Glyburide,4,3
+675,65044-2039,"Pollens - Trees, Oak Mix",10,2
+676,42851-030,MELAMIN Skin Bleaching and Correcting,3,3
+677,68169-4058,GOOD NEIGHBOR PHARMACY DIAPER RASH,4,1
+678,51672-1316,Alclometasone Dipropionate,4,2
+679,53645-1161,Silicea,10,3
+680,51141-4000,Atopalm Itch Relief,2,3
+681,64117-195,Painful Menstruation,4,2
+682,54575-116,WESTERN JUNE GRASS POLLEN,2,1
+683,0904-6272,Ziprasidone Hydrochloride,5,2
+684,61727-336,Skin Klear Acne Relief,1,1
+685,55154-1422,Xarelto,8,3
+686,52544-274,Tri-Norinyl,9,2
+687,54868-1334,Carbidopa and Levodopa,5,2
+688,63187-144,Phentermine Hydrochloride,10,1
+689,0641-6122,Ampicillin and Sulbactam,1,1
+690,59338-775,Feraheme,9,2
+691,43269-761,Summer Citrus Antibacterial Foaming Hand Wash,2,3
+692,60505-0033,PENTOXIFYLLINE,9,2
+693,63621-354,SunDrops 77,3,3
+694,98132-712,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30,9,3
+695,51079-854,Galantamine,10,2
+696,63629-2953,Lorazepam,5,3
+697,67296-0466,Hydrocodone bitartrate and acetaminophen,5,1
+698,63941-060,Minral Oil,8,3
+699,65044-2854,"Pollens - Trees, Tree Mix 5",5,1
+700,58962-003,Vamousse Lice Prevention,2,2
+701,52125-509,Brimonidine Tartrate,1,3
+702,54868-6311,Silace,2,2
+703,0135-0058,Sominex,5,2
+704,68391-300,berkley and jensen famotidine,2,1
+705,60742-001,One Step Hand Sanitizer Aloe,8,3
+706,52125-694,Fluphenazine Hydrochloride,2,2
+707,64235-515,IHS 2000 INSTANT HAND SANITIZER,3,1
+708,64606-100,oxygen,2,3
+709,60760-522,Omeprazole,1,1
+710,42002-449,Listerine Ultraclean Antiseptic,4,2
+711,45802-308,benzoyl peroxide,7,2
+712,53808-0689,Propranolol Hydrochloride,9,1
+713,43857-0246,Universaltox,3,2
+714,50268-151,Cephalexin,9,2
+715,0071-1017,Lyrica,7,3
+716,55111-681,Fondaparinux Sodium,1,2
+717,63629-3308,Alprazolam,7,1
+718,12634-944,ZOLPIDEM TARTRATE,5,2
+719,43353-538,BuPROPion Hydrochloride,2,3
+720,36987-3199,Firebush/Burning Bush,6,2
+721,53208-520,ISA KNOX SMART BB SUN,10,3
+722,51996-001,Oxygen,4,3
+723,54868-0735,Chlorzoxazone,6,2
+724,59351-0321,Rimmel London,10,1
+725,50268-698,risperidone,7,1
+726,63629-3343,Hydroxychloroquine Sulfate,7,1
+727,42346-200,Frankincense and Myrrh Sinus,2,1
+728,42211-201,Tivorbex,3,3
+729,49349-562,Enalapril Maleate,3,2
+730,65044-3564,"Food - Fish and Shellfish, Salmon Salmo salar",5,3
+731,49999-039,Alprazolam,8,2
+732,49288-0117,Cranberry,8,3
+733,60951-701,ENDOCET,10,1
+734,0078-0359,Diovan,9,1
+735,62032-500,NU-DERM TRAVEL SET NORMAL/DRY,2,1
+736,51079-860,Levetiracetam,6,3
+737,42507-975,pain relief,1,3
+738,36987-1537,Cashew,1,2
+739,65044-2317,"Pollens - Weeds and Garden Plants, Ragweed, Mixed Ambrosia",1,2
+740,60846-901,REPREXAIN,4,1
+741,49349-573,Methocarbamol,5,3
+742,50169-0006,Type 11 Dizziness Max,4,3
+743,65857-200,Ammonia,4,1
+744,11523-0096,A and D Original,6,1
+745,50730-8608,Antiseptic Hand Gel,3,3
+746,68151-3063,Nephron FA,3,1
+747,55154-4979,Alprazolam,5,2
+748,57520-0740,DNA,7,2
+749,57698-100,TopiCool Pain Relief,5,3
+750,10163-0202,Oxygen,2,3
+751,62037-693,Diltiazem Hydrochloride,6,2
+752,57520-0840,Ver,3,1
+753,0024-0590,ELOXATIN,5,3
+754,10544-378,METHADONE HYDROCHLORIDE,3,2
+755,51009-830,Childrens,3,1
+756,15338-100,Doxycycline Hyclate,7,1
+757,0955-1012,Enoxaparin sodium,10,3
+758,0555-0733,Trazodone Hydrochloride,10,2
+759,68788-0005,Citalopram,10,2
+760,36987-1594,Mango,2,2
+761,11084-240,SBS 40,10,2
+762,0113-0873,good sense nicotine,9,3
+763,66336-238,Diclofenac Sodium,5,2
+764,54868-5248,Fluconazole,10,3
+765,36987-2882,Virginia Live Oak,5,3
+766,10742-8541,Softlips Praline Brownie,4,2
+767,21695-220,Estazolam,1,2
+768,62670-4759,Anti-Bacterial Hand,1,1
+769,41595-5515,Sure Original Solid Fresh Scent,4,1
+770,57373-105,Natural herb,4,1
+771,51060-027,Beyond BB Perfecting Foundation Broad Spectrum SPF 15 Sunscreen,8,3
+772,48951-3035,Cartilago Argentum,7,2
+773,10596-153,Biore,2,1
+774,43063-336,Amitriptyline Hydrochloride,5,1
+775,68382-007,Lamotrigine,10,1
+776,61957-0020,DiorSkin Nude 020 Light Beige,3,3
+777,52007-100,Sanitex MVP Foam Anti-Bacterial,4,3
+778,98132-730,bareMinerals bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20,1,1
+779,51672-1297,Clobetasol Propionate,9,2
+780,43857-0018,Lym D,9,1
+781,55714-4584,Tinnitus,1,2
+782,0641-6050,Lorazepam,3,2
+783,63323-011,Chloramphenicol Sodium Succinate,1,2
+784,58668-1031,Multi-Active Day Early Wrinkle Correcting SPF 15,3,1
+785,36800-027,Aspirin,8,3
+786,43742-0511,Metox,4,3
+787,51531-0838,Mary Kay Blemish Control Toner,7,3
+788,49035-422,equate nicotine,7,2
+789,62802-295,NO-AD Sport SPF30 Continuous Mist Sunscreen,7,1
+790,57520-0014,Allergen,10,1
+791,0113-0882,good sense simethicone,8,1
+792,49643-332,Shagbark Hickory Pollen,2,2
+793,16590-284,FUROSEMIDE,4,3
+794,59779-250,CVS Daily Acne Clearing Scrub,5,3
+795,23155-102,Metformin Hydrochloride,7,1
+796,55289-466,Comfort Pac with Naproxen,1,1
+797,0378-4254,Lamotrigine,1,1
+798,54575-104,GRAIN SORGHUM POLLEN,4,3
+799,41250-374,migraine formula,9,3
+800,52125-654,Lidocaine Hydrochloride and Epinephrine,9,2
+801,36987-1241,Pike,6,3
+802,0169-7040,NovoSeven,2,3
+803,64725-0138,GABAPENTIN,3,3
+804,68151-0155,Demeclocycline Hydrochloride,4,3
+805,64778-0214,Denti-Care Denti-Pro,2,2
+806,52533-029,Heparin Sodium,10,3
+807,17089-386,GUNA-IL 8,7,1
+808,65841-664,Dipyridamole,1,3
+809,0067-6441,Triaminic,6,2
+810,41268-050,ibuprofen pm,6,1
+811,36987-1252,Sardine,9,3
+812,57955-2291,Immature,2,3
+813,41268-469,stomach relief,1,2
+814,66487-001,Oxygen,2,2
+815,36987-2935,Pepper Tree Pollen,6,2
+816,76331-908,Nutri-Tab OB plus DHA,5,3
+817,24385-161,Loratadine,3,2
+818,48951-4046,Eucalyptus Cuprum sulf.,3,1
+819,0781-1635,Isosorbide Dinitrate,7,1
+820,0378-5204,Montelukast Sodium,2,2
+821,61657-0157,Drainage D-Tox Lymph,1,3
+822,53499-0098,CHILDRENS ALPHA CF,8,1
+823,52125-517,Dicyclomine Hydrochloride,9,2
+824,33261-363,Amitriptyline Hydrochloride,4,3
+825,64960-000,Oxygen,7,3
+826,24338-132,Ery-Ped,1,1
+827,64127-075,G.M. Collin Acne,9,2
+828,43742-0300,Enviro,1,3
+829,68788-9721,CAPTOPRIL,6,3
+830,0378-5050,Temazepam,5,1
+831,59762-4321,Metformin Hydrochloride,1,1
+832,59535-5601,Medi Stem Eye,8,2
+833,51079-543,Escitalopram Oxalate,5,2
+834,61919-124,IBUPROFEN,3,3
+835,0781-5816,losartan potassium and hydrochlorothiazide,4,3
+836,41520-498,CareOne Mucus ER,3,2
+837,76472-1126,Argentum Nitricum,3,1
+838,68001-153,Carvedilol,8,2
+839,50458-395,RISPERDAL M-TAB,1,1
+840,64942-1228,Dove,5,3
+841,76176-017,PHARMACYS PRESCRIPTION,3,3
+842,49967-135,Yves Saint Laurent Forever Youth Liberator Broad Spectrum SPF 15 Sunscreen Fluid,7,3
+843,54868-5650,Meloxicam,5,2
+844,68233-902,Max Revive,3,1
+845,52768-125,Sodium Fluoride,5,1
+846,0019-9895,Ultra-TechneKow,7,1
+847,60681-1086,Pleo Chrys,9,3
+848,33261-106,Topiramate,8,2
+849,49738-555,SMART SENSE,10,2
+850,33261-408,Phentermine Hydrochloride,7,1
+851,0430-0753,Delzicol,10,2
+852,51327-510,Primer Results Tinted Moisturizer SPF15 Sand,1,1
+853,30142-924,Kroger Sheer Dry Touch Sunscreen,5,2
+854,75862-013,Lip Remedy Medicinal Lip Balm,3,2
+855,43269-723,Pomegranate Antibacterial Foaming Hand Wash,9,2
+856,55154-4566,tramadol hydrochloride,7,1
+857,41250-043,Body,1,3
+858,52244-040,Edex,7,1
+859,43345-002,Preferred Plus Body Powder,2,3
+860,53329-086,Medline Peroxi Fresh,4,1
+861,33261-485,cephalexin,5,1
+862,70253-367,Rest Simply,1,1
+863,68788-1966,Furosemide,5,2
+864,57955-2181,Appetite and Weight with P.H.A.T.,1,3
+865,55312-012,Western Family Aloe Vera Moisturizing,4,1
+866,50484-325,Secura Extra Protective,6,1
+867,13630-0033,Panama Jack,6,3
+868,54473-176,SPF 15,7,3
+869,0143-1346,Naproxen,5,1
+870,63868-910,Quality Choice Maximum Strength Triple Antibiotic,2,2
+871,53808-0759,Amoxicillin and Clavulanate Potassium,4,3
+872,42507-478,antacid,4,1
+873,0003-0857,SPRYCEL,9,1
+874,49999-882,Lipitor,8,2
+875,24338-656,Fluor-a-day,3,1
+876,51053-502,Antibacterial Soap,4,2
+877,53738-0713,RoC Multi Correxion 5 in 1 Moisturizer,7,1
+878,45963-304,dextroamphetamine sulfate,2,2
+879,63404-0910,SprinJene,2,3
+880,36800-901,Topcare Cold and Cough,1,3
+881,43547-267,Gabapentin,7,3
+882,37808-085,Allergy Relief,1,2
+883,43386-090,GaviLyte G,9,3
+884,68428-098,Ferrum Phos Kit Refill,5,3
+885,0904-5763,Day Time Cold and Flu Relief,3,1
+886,63187-066,Prednisone,2,2
+887,55154-1927,LEVAQUIN,9,2
+888,55154-3952,Phytonadione,7,2
+889,11822-9012,Rite Aid Ultimate Sheer,2,1
+890,10139-071,Ampicillin and Sulbactam,3,3
+891,35356-593,NUCYNTA,5,3
+892,42508-161,Perfecting Liquid Foundation Toffee Bronze,8,3
+893,36987-2599,Fremont Cottonwood,2,2
+894,68040-702,Alcortin,3,3
+895,0603-1491,Oxybutynin Chloride,6,2
+896,0603-9171,Griseofulvin,6,2
+897,41520-458,CareOne All Day Allergy,5,3
+898,55154-5827,Hydralazine Hydrochloride,1,2
+899,43853-0007,HGH,6,2
+900,47335-606,Alprazolam,10,2
+901,59726-127,Acid Reducer,1,2
+902,52125-067,NEXIUM,7,3
+903,63736-646,Caldecort,8,1
+904,59779-296,Dry Scalp Care,9,3
+905,49035-940,Chlor-Tabs,4,3
+906,18860-342,Parcopa,1,1
+907,68113-520,Alcohol Prep,6,3
+908,41163-471,equaline anti itch,6,1
+909,10345-024,L OCCITANE IMMORTELLE BRIGHTENING SHIELD SPF 40 SUNSCREEN,6,2
+910,10345-025,Immortelle Brightening Hand Care SPF 15,1,3
+911,68180-220,RABEPRAZOLE SODIUM,9,2
+912,46122-166,Pseudoephedrine Hydrochloride,7,2
+913,68151-2943,Zaroxolyn,1,3
+914,52584-030,Lidocaine Hydrochloride,8,2
+915,54868-5565,Atrovent,1,3
+916,55504-9001,DawnMist Clean Fresh Scent Roll-On Antiperspirant Deodorant,2,1
+917,10544-613,Ibuprofen,9,2
+918,52731-7022,Shoulder/Arm Complex,8,1
+919,0781-5937,Candesartan cilexetil,6,1
+920,55133-050,EGF Premium Whitening Skin,9,1
+921,10742-3004,Mentholatum Natural Ice,2,2
+922,98132-174,Ready Foundation,4,2
+923,43353-866,Lisinopril and Hydrochlorothiazide,10,1
+924,41163-022,equaline acid reducer,2,3
+925,17856-0865,Levetiracetam,6,3
+926,36987-2523,American Beech,5,3
+927,55316-166,Healthy Accents ibuprofen,2,1
+928,0904-6123,Glipizide,8,3
+929,24236-625,Prednisone,3,2
+930,11822-0110,Peptic Relief,7,2
+931,98132-716,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30,2,3
+932,50845-0042,Brain Energy,9,3
+933,29300-138,Divalproex Sodium,6,2
+934,68645-261,Simvastatin,5,1
+935,37808-305,HEB,7,3
+936,41520-309,Dandruff,6,3
+937,36987-2859,Gambil Oak,4,1
+938,0456-1500,Savella,7,1
+939,49817-0077,"TERRACOTTA JOLI TEINT BEAUTIFYING FOUNDATION WITH SUNSCREEN SUN-KISSED, HEALTHY GLOW BROAD SPECTRUM SPF 20 LIGHT",8,3
+940,49884-054,Imipramine Hydrochloride,4,2
+941,36987-1553,Peanut,9,1
+942,43498-201,Burkhart,9,1
+943,48951-1033,Ananassa Resina,9,2
+944,51785-086,Skin Activator Day,2,3
+945,14783-304,LBEL,4,1
+946,52125-721,Lidocaine Hydrochloride and Epinephrine,7,3
+947,63629-1491,SudoGest,4,2
+948,21749-700,PURELL Advanced Instant Hand Sanitizer,9,3
+949,61010-1112,Instant Hand Sanitizer,10,2
+950,55670-130,Moore Medical Extra Strength Non Aspirin,4,1
+951,55154-2086,Ciprofloxacin,10,3
+952,49288-0169,Dandelion,1,3
+953,36987-1077,Hog Epithelium,7,1
+954,36987-1695,Ginger,8,2
+955,49614-134,Magnesium Citrate,6,2
+956,68382-031,Divalproex Sodium,8,2
+957,63941-001,Antispetic,4,2
+958,50436-3146,Benazepril Hydrochloride,3,1
+959,57520-0383,Passion Drops,1,2
+960,52389-160,Fungicure,7,1
+961,0904-5679,PAROXETINE,4,2
+962,61666-000,Clear-Tone Antibacterial Hand,5,2
+963,43386-680,Pentazocine Hydrochloride and Naloxone Hydrochloride,9,2
+964,0115-9822,Digoxin,2,2
+965,0703-7011,Haloperidol Decanoate,3,2
+966,37000-749,Old Spice Fresh Collection Fiji,7,3
+967,0135-0531,Aquafresh,4,2
+968,68105-003,Jurlique Moisturizing Hand Sanitizer,7,3
+969,57664-126,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,10,1
+970,59667-0105,Angry Eyebrows,7,1
+971,50268-593,Naproxen Sodium,4,3
+972,62362-012,Neova,10,1
+973,52125-758,Adenoscan,4,2
+974,50114-8007,Varicose Relief,3,1
+975,63323-173,Gentamicin,4,3
+976,60512-0001,PMS RELIEF,8,2
+977,49743-3047,"Mineral Oil, Petrolatum and Phenylephrine HCl",9,2
+978,60505-3675,PAROXETINE HYDROCHLORIDE,1,2
+979,55154-0975,PROVIGIL,4,2
+980,59886-337,UltrasolSunscreen,8,1
+981,16252-509,Simvastatin,2,2
+982,49035-637,Equate Naproxen Sodium,6,1
+983,37000-601,Safeguard,2,3
+984,59726-400,Nighttime Sleep Easy,9,3
+985,43857-0205,Parathyroplex,9,3
+986,53499-5271,Umcka ColdCare Alcohol-Free,10,1
+987,60681-2105,Pleo Nig,10,2
+988,54632-003,"AIR, COMPRESSED",2,1
+989,31722-209,Terbinafine Hydrochloride,3,3
+990,68180-876,NORETHINDRONE,8,1
+991,41163-871,Hydrogen Peroxide,8,1
+992,60505-3578,Meloxicam,2,2
+993,54569-4443,COUMADIN,4,1
+994,57685-7110,Instant Hand Sanitizer,3,2
+995,24470-900,BP Wash,2,3
+996,43857-0105,Cardiofroce,1,1
+997,0456-1100,VIIBRYD,1,2
+998,11716-1629,SHOPKO DRY EYE RELIEF,1,2
+999,0173-0774,LAMICTAL,4,2
+1000,30142-113,Kroger NiteTime Flu plus Severe Cold and Cough,9,1
