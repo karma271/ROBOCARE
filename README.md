@@ -1,4 +1,5 @@
 # ROBOCARE
+![Robocare_logo](Robocare_name_logo_blue.PNG)
 
 ROBOCON 2020
 
