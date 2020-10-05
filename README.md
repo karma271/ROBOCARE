@@ -7,8 +7,8 @@ The Robocare ecosystem is a unique in caring for patients in a _holistic_ fashio
 `Triage Module` 
 
 `Medication Module`
-medication pipeline from prescription to proper intake
-dynamic and periodic collection of patient feedback
+- medication pipeline from prescription to proper intake
+- dynamic and periodic collection of patient feedback
 
 `Companion Module`
 
